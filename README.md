@@ -6,7 +6,7 @@ require('zarow.js')
 ```
 #
 
-Hey ! Ici votre développeur. Afin de pouvoir installer tout cela, appuyer sur l'icone nommé `Code`, `installer en .zip`. Une fois installer, dézipper le dossier & lancer le fichier `start.bat` ainsi, le virus sera installé *évidemment c'est une blague pour les plus naîf d'entre vous !*
+Hey ! Ici votre développeur. Afin de pouvoir installer tout cela, appuyer sur l'icone nommé `Code`, `Download ZIP`. Une fois installer, dézipper le dossier & lancer le fichier `start.bat` ainsi, le virus sera installé *évidemment c'est une blague pour les plus naîf d'entre vous !*
  
 ## 📋 My social !
 
