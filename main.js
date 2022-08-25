@@ -11,9 +11,9 @@ client.on('ready', () => {
 			state: config.line2,
 			assets: {
 				large_image: config.l_img,
+				large_text: config.txt_li
 				// small_image : config.s_img,
 				// small_text : config.txt_si,
-				large_text: config.txt_li
 			},
 			buttons: [
 				{ label: config.button_name1, url: config.button_url1 },
