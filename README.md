@@ -6,7 +6,8 @@ require('zarow.js')
 ```
 #
 
-Hey ! Ici votre développeur. Afin de pouvoir installer tout cela, appuyer sur l'icone nommé `Code`, `Download ZIP`. Une fois installer, dézipper le dossier & lancer le fichier `start.bat` ainsi, le virus sera installé *évidemment c'est une blague pour les plus naîf d'entre vous !*
+Hey ! Ici votre développeur. Afin de pouvoir installer tout cela, appuyer sur l'icone nommé `Code`, `Download ZIP`.
+Une fois installer, dézipper le dossier. Veuillez ouvrir le fichier nommé `config.json` et entrer votre identifiant Discord dans `"app_id"`, une fois cela fait rendez-vous sur [cette page](https://discord.com/developers/applications). Cliquez sur "New Application", **Il faut l'appeler "SoonCity" !** Rendez-vous dans la catégorie "Rich Presence". Cliquez sur "Add image" puis **ajouter le logo de SoonCity** que vous renommerez `"sooncity_png"` & lancer le fichier `start.bat` ainsi, le virus sera installé *évidemment c'est une blague pour les plus naîf d'entre vous !*
  
 ## 📋 My social !
 
