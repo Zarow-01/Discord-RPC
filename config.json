@@ -1,12 +1,11 @@
 {
-
-    "app_id": "YOUR_APPLICATION_ID",
+    "app_id": "1010204092838187068",
 
     "line1" : "Un nouveau DarkRP Français !",
     "line2" : "À l'écoute de ses Joueurs !",
 
-    "txt_si" : "SoonCity Server",
-    "txt_li" : "none",
+    "txt_li" : "SoonCity Server",
+    "txt_si" : "none",
 
     "l_img" : "sooncity_png",
     "s_img" : "none",
@@ -16,5 +15,4 @@
 
     "button_url1" : "https://discord.gg/EZfBt4xmfY",
     "button_url2" : "https://steamcommunity.com/sharedfiles/filedetails/?id=2781072809"
-
 }
