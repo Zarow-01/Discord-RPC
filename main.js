@@ -34,9 +34,5 @@ setTimeout(function () {
 }, 2000)
 
 setTimeout(function () {
-	console.log('Loading....')
-}, 3000)
-
-setTimeout(function () {
 	console.log('RPC Good ! By Zarow™#3936')
-}, 5000)
+}, 4000)
