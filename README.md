@@ -6,7 +6,7 @@ require('zarow.js')
 ```
 #
 
-Hey ! Aujourd'hui, je vous présente le RPC (Rich Presence Client). Cela permet d'avoir une belle intégration sur son profil Discord.
+Aujourd'hui, je vous présente le RPC (Rich Presence Client). Cela permet d'avoir une belle intégration sur son profil Discord.
 Voici un petit tutoriel pour le mettre en place :
 Rendez-vous sur [Discord Developer](https://discord.com/developers/applications).
 Choisissez l'option "New Application".
