@@ -12,8 +12,8 @@ client.on('ready', () => {
 			assets: {
 				large_image: config.l_img,
 				large_text: config.txt_li
-				// small_image : config.s_img,
-				// small_text : config.txt_si,
+				small_image : config.s_img,
+				small_text : config.txt_si,
 			},
 			buttons: [
 				{ label: config.button_name1, url: config.button_url1 },
