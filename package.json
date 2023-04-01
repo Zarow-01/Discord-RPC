@@ -1,7 +1,7 @@
 {
   "name": "discord-rpc",
   "version": "1.0.0",
-  "description": "Discord RPC - Zarow™#3936",
+  "description": "Discord RPC - Zarow#3936",
   "main": "main.js",
   "dependencies": {
     "discord-rpc": "^4.0.1",
