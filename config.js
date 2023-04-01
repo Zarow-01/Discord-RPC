@@ -1,11 +1,11 @@
 module.exports = {
-    app_id: 'DISCORD_APPLICATION_ID',
+    app_id: '1091789525791035412',
 
-    line1: 'Discord RPC',
-    line2: 'By Zarow#3936',
+    line1: 'Zarow\'RPC Project.',
+    line2: 'By Zarow#3936.',
 
-    txt_li: 'Made by Zarow#3936',
-    txt_si: 'Online by Zarow#3936',
+    txt_li: 'Made by Zarow#3936!',
+    txt_si: 'It\'s real!',
 
     l_img: 'picture_1',
     s_img: 'picture_2',
