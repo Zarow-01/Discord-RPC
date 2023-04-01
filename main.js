@@ -1,5 +1,5 @@
 const RPC = require('discord-rpc')
-const config = require('./config.json');
+const config = require('./config.js');
 const client = new RPC.Client({ transport: 'ipc' })
 
 client.on('ready', () => {
