@@ -11,7 +11,7 @@ Voici un petit tutoriel pour le mettre en place :
 Rendez-vous sur [Discord Developer](https://discord.com/developers/applications).
 Choisissez l'option "New Application".
 Rendez-vous dans la partie "Rich Presence" ajouter 2 images que vous nommerez comme vous le souhaitez puis modifierez dans le fichier `config.js`. Puis, exécuter le fichier `start.bat` puis le tour et joué !
-![DiscordRPCExemple](https://user-images.githubusercontent.com/102884028/229316632-0b10570c-da66-4591-ac04-f1b272bb702f.png)
+ ![DiscordRPCExemple](https://user-images.githubusercontent.com/102884028/229316632-0b10570c-da66-4591-ac04-f1b272bb702f.png)
  
 ## 📋 My social !
 
