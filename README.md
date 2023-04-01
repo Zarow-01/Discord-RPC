@@ -17,3 +17,4 @@ Rendez-vous dans la partie "Rich Presence" ajouter 2 images que vous nommerez co
 <a href="https://discord.com/users/372771862960275456"><img src="https://i.imgur.com/7GB2pPW.png" height="60px"></a>
 <a href="https://github.com/Zarow-01/"><img src="https://i.imgur.com/Jf9shUY.png" height="60px"></a>
 </div>
+![DiscordRPCExemple](https://user-images.githubusercontent.com/102884028/229316632-0b10570c-da66-4591-ac04-f1b272bb702f.png)
