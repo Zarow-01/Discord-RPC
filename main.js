@@ -24,7 +24,9 @@ client.on('ready', () => {
 })
 
 client.login({ clientId: config.app_id }).catch(console.error);
+
 console.log('Loading.')
+
 setTimeout(function () {
 	console.log('Loading..')
 }, 1000)
