@@ -1,5 +1,4 @@
-var RPC = require('discord-rpc')
-
+const RPC = require('discord-rpc')
 const config = require('./config.json');
 const client = new RPC.Client({ transport: 'ipc' })
 
@@ -9,16 +8,8 @@ client.on('ready', () => {
 		activity: {
 			details: config.line1,
 			state: config.line2,
-			assets: {
-				large_image: config.l_img,
-				large_text: config.txt_li
-				small_image : config.s_img,
-				small_text : config.txt_si,
-			},
-			buttons: [
-				{ label: config.button_name1, url: config.button_url1 },
-				{ label: config.button_name2, url: config.button_url2 },
-			]
+			assets: { large_image: config.l_img, large_text: config.txt_li, small_image : config.s_img, small_text : config.txt_si },
+			buttons: [{ label: config.button_name1, url: config.button_url1 }, { label: config.button_name2, url: config.button_url2 }]
 		}
 	})
 })
