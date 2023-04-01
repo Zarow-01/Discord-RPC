@@ -6,11 +6,15 @@ require('zarow.js')
 ```
 #
 
-Hey ! Ici votre développeur. Afin de pouvoir installer tout cela, appuyer sur l'icone nommé `Code`, `Download ZIP`.
-Une fois installer, dézipper le dossier. Rendez-vous sur [cette page](https://discord.com/developers/applications). Cliquez sur "New Application", **Il faut l'appeler "SoonCity" !** Rendez-vous dans la catégorie "Rich Presence". Cliquez sur "Add image" puis **ajouter le logo de SoonCity** que vous renommerez `"sooncity_png"`. Veuillez ouvrir le fichier nommé `config.json` et entrer l'identifiant que vous trouverez dans "Général Information" sur la page internet dans `"app_id"`, une fois cela fait, télécharger `node.js` sur internet version `LTS` & lancer le fichier `start.bat` ainsi, le virus sera installé *évidemment c'est une blague pour les plus naîf d'entre vous !*
+Hey ! Aujourd'hui, je vous présente le RPC (Rich Presence Client). Cela permet d'avoir une belle intégration sur son profil Discord.
+Voici un petit tutoriel pour le mettre en place :
+- Rendez-vous sur [Discord Developer](https://discord.com/developers/applications).
+- Choisissez l'option "New Application".
+- Rendez-vous dans la partie "Rich Presence" ajouter 2 images que vous nommerez comme vous le souhaitez puis modifierez dans le fichier `config.js`
+- Exécuter le fichier `start.bat` puis le tour et joué !
  
 ## 📋 My social !
 
 <a href="https://discord.com/users/372771862960275456"><img src="https://i.imgur.com/7GB2pPW.png" height="60px"></a>
-<a href="https://github.com/Zarow-01/Readme.md"><img src="https://i.imgur.com/Jf9shUY.png" height="60px"></a>
+<a href="https://github.com/Zarow-01/"><img src="https://i.imgur.com/Jf9shUY.png" height="60px"></a>
 </div>
