@@ -34,5 +34,5 @@ setTimeout(function () {
 }, 2000)
 
 setTimeout(function () {
-	console.log('RPC Good ! By Zarow™#3936')
+	console.log('RPC Good ! By Zarow#3936')
 }, 4000)
